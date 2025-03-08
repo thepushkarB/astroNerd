@@ -49,8 +49,6 @@
 npm run dev
 ```
 
-The application will be accessible at [http://localhost:5173](http://localhost:5173).
-
 ## Technologies Used
 
 - **ReactJS** – JavaScript library for building user interfaces
@@ -73,4 +71,3 @@ The application will be accessible at [http://localhost:5173](http://localhost:5
 
 
 Embark on a daily journey through the cosmos with astroNerd! 🌠
-```
