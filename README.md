@@ -12,7 +12,6 @@
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Acknowledgements](#acknowledgements)
-- [Project Structure](#project-structure)
 
 ## Features
 
